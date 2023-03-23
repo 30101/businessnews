@@ -11,13 +11,25 @@ body {
 }
 
 
+
+.banner1 {
+  position: fixed;
+     top: 0;
+}
+
+.cotacao {
+  position: fixed;
+     top: 0;
+}
+
 .video-container {
   
   height: 100%;
   position: absolute;
   margin: 0 auto;
-  top: 189px;  
-  left: 42px;
+  top: 176px;
+    left: 54px;
+    max-width: 307px;
 }
 
 
